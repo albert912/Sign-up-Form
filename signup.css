@@ -1,0 +1,44 @@
+
+@font-face {
+    font-family: 'norsebold';
+    src: url('fonts/norse-bold-webfont.woff2') format('woff2'),
+         url('fonts/norse-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+img {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 497px; /* Görüntünün genişliği (isteğe göre ayarlayın) */
+    height: 100%; /* Görüntünün yüksekliği (sayfa yüksekliği kadar) */
+    object-fit: cover;
+  }
+
+  .logo {
+    position: fixed;
+    background-color: black;
+    opacity: 0.5;
+    width: 497px;
+    height: 17%;
+    top:18vh;
+    left: 0;
+}
+
+
+
+.text {
+    font-size: 70px;
+    font-family: "norsebold", serif;
+    color: white;
+    opacity: 1;
+    padding-top: 30px;
+    padding-left: 250px;
+
+}
+
+  
+  
