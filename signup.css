@@ -270,11 +270,7 @@ font-weight: 550;
     left: 400px;
   }
 
-  /*#pasconfirm {
-    border: 1px solid  #E5E7EB;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }*/
+  
 
   label[for="pasconfirm"] {
     font-size: 17px;
